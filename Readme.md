@@ -11,11 +11,11 @@
 
 <div align="center">
 
- 🌍 Currently, I'm based in Finland 
+ 🌍 Currently, I'm based in Finland
  
- 🔭 I’m currently working as an internship for [Metatavu](https://metatavu.fi/) in Mikkeli, Finland
+ 🔭 I’m currently working as an internship for [Metatavu](https://metatavu.fi/) in Mikkeli, Finland 
 
- ⚡ Fact **I'm quite extrovert but during Winter, i am introverted😥**
+ ⚡ Fact: **I'm quite extrovert but during Winter, i am introverted😥**
  
  </div>
 
@@ -55,9 +55,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,gitlab,express,firebase,mongodb" /><br>
-  <img src="https://skillicons.dev/icons?i=react,angular,electron,next,javascript,typescript,d3,redux,styledcomponents" /><br>
-    <img src="https://skillicons.dev/icons?i=jenkins,bootstrap,mui,mysql,html,css,sass,tailwind,vscode,figma,xd,ps,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,github,express,firebase,mongodb" /><br>
+  <img src="https://skillicons.dev/icons?i=react,angular,next,javascript,typescript,redux" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,mui,mysql,html,css,sass,tailwind,vscode,git" />
 </div>
   <br/><br/><br/>
 <hr/>
