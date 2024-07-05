@@ -5,17 +5,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thanh+Tin!;" />
 </h1>
 
-<h3 align="center">I'm a Web Developer and UI/UX designer</h3>
+<h3 align="center">I'm a Full-Stack Developer</h3>
 
 <br/>
 
 <div align="center">
 
- 🌍 I'm based in Vietnamese 
+ 🌍 Currently, I'm based in Finland 
  
- 🔭 I’m currently working on **a chat app**
+ 🔭 I’m currently working as an internship for [Metatavu](https://metatavu.fi/) in Mikkeli, Finland
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ ⚡ Fact **I'm quite extrovert but during Winter, i am introverted😥**
  
  </div>
 
@@ -23,7 +23,7 @@
   <a href="mailto:tintran11.work@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/thanhtin/" target="_blank">
+  <a href="https://www.linkedin.com/in/huy-anh-pham-890b63226/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://thanhtin4401.github.io/myWebSite/" target="_blank">
