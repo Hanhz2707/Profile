@@ -33,13 +33,14 @@
 
 <h2 align="center">⭐ Personal Projects </h2>
 
-<p align="center"> 
-    ![Link](https://github.com/Hanhz2707/Profile/assets/144563745/509a69b4-6932-4206-b1f2-fc7f3c9712bd)
+
+
+<p align="center">
+    <img src="https://github.com/Hanhz2707/portfolio/blob/master/frontend_react/src/assets/giphy.gif" width="400" height="300">
 </p>
 
-
 <div align="center">
-
+   
     
 - **[Jamming Project](https://hanhz2707jammingproject.surge.sh/)** - A playlist website use Spotify API for songs with React framework.
     
